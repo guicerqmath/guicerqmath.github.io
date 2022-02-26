@@ -1458,14 +1458,6 @@ a {
   color: #ffffff;
   text-align: left;
 }
-.cid-sVuz1tBDSe {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-color: #353535;
-}
-.cid-sVuz1tBDSe .mbr-section-title {
-  color: #ffffff;
-}
 .cid-sVu5ERHHfR .navbar-dropdown {
   position: relative !important;
 }
@@ -1805,6 +1797,14 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sYz8HzomTp {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #353535;
+}
+.cid-sYz8HzomTp .mbr-section-title {
+  color: #ffffff;
 }
 .cid-sVuq2U1hxg {
   padding-top: 0rem;
